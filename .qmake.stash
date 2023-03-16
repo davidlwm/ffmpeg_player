@@ -1,0 +1,43 @@
+QMAKE_DEFAULT_INCDIRS = \
+    D:/ChaunYi/Qt/Qt_Install/qt5.8.0/Tools/mingw530_32/lib/gcc/i686-w64-mingw32/5.3.0/include \
+    D:/ChaunYi/Qt/Qt_Install/qt5.8.0/Tools/mingw530_32/lib/gcc/i686-w64-mingw32/5.3.0/include-fixed \
+    D:/ChaunYi/Qt/Qt_Install/qt5.8.0/Tools/mingw530_32/i686-w64-mingw32/include \
+    D:/ChaunYi/Qt/Qt_Install/qt5.8.0/Tools/mingw530_32/i686-w64-mingw32/include/c++ \
+    D:/ChaunYi/Qt/Qt_Install/qt5.8.0/Tools/mingw530_32/i686-w64-mingw32/include/c++/i686-w64-mingw32 \
+    D:/ChaunYi/Qt/Qt_Install/qt5.8.0/Tools/mingw530_32/i686-w64-mingw32/include/c++/backward
+QMAKE_DEFAULT_LIBDIRS = \
+    D:/ChaunYi/Qt/Qt_Install/qt5.8.0/Tools/mingw530_32/lib/gcc/i686-w64-mingw32/5.3.0 \
+    D:/ChaunYi/Qt/Qt_Install/qt5.8.0/Tools/mingw530_32/lib/gcc \
+    D:/ChaunYi/Qt/Qt_Install/qt5.8.0/Tools/mingw530_32/i686-w64-mingw32/lib \
+    D:/ChaunYi/Qt/Qt_Install/qt5.8.0/Tools/mingw530_32/lib
+QMAKE_CXX.QT_COMPILER_STDCXX = 201402L
+QMAKE_CXX.QMAKE_GCC_MAJOR_VERSION = 7
+QMAKE_CXX.QMAKE_GCC_MINOR_VERSION = 3
+QMAKE_CXX.QMAKE_GCC_PATCH_VERSION = 0
+QMAKE_CXX.COMPILER_MACROS = \
+    QT_COMPILER_STDCXX \
+    QMAKE_GCC_MAJOR_VERSION \
+    QMAKE_GCC_MINOR_VERSION \
+    QMAKE_GCC_PATCH_VERSION
+QMAKE_CXX.INCDIRS = \
+    D:/ChaunYi/Qt/Qt_Install/qt5.8.0/Tools/mingw530_32/lib/gcc/i686-w64-mingw32/5.3.0/include \
+    D:/ChaunYi/Qt/Qt_Install/qt5.8.0/Tools/mingw530_32/lib/gcc/i686-w64-mingw32/5.3.0/include-fixed \
+    D:/ChaunYi/Qt/Qt_Install/qt5.8.0/Tools/mingw530_32/i686-w64-mingw32/include \
+    D:/ChaunYi/Qt/Qt_Install/qt5.8.0/Tools/mingw530_32/i686-w64-mingw32/include/c++ \
+    D:/ChaunYi/Qt/Qt_Install/qt5.8.0/Tools/mingw530_32/i686-w64-mingw32/include/c++/i686-w64-mingw32 \
+    D:/ChaunYi/Qt/Qt_Install/qt5.8.0/Tools/mingw530_32/i686-w64-mingw32/include/c++/backward \
+    C:/Qt/Qt5.12.10/Tools/mingw730_32/lib/gcc/i686-w64-mingw32/7.3.0/include/c++ \
+    C:/Qt/Qt5.12.10/Tools/mingw730_32/lib/gcc/i686-w64-mingw32/7.3.0/include/c++/i686-w64-mingw32 \
+    C:/Qt/Qt5.12.10/Tools/mingw730_32/lib/gcc/i686-w64-mingw32/7.3.0/include/c++/backward \
+    C:/Qt/Qt5.12.10/Tools/mingw730_32/lib/gcc/i686-w64-mingw32/7.3.0/include \
+    C:/Qt/Qt5.12.10/Tools/mingw730_32/lib/gcc/i686-w64-mingw32/7.3.0/include-fixed \
+    C:/Qt/Qt5.12.10/Tools/mingw730_32/i686-w64-mingw32/include
+QMAKE_CXX.LIBDIRS = \
+    D:/ChaunYi/Qt/Qt_Install/qt5.8.0/Tools/mingw530_32/lib/gcc/i686-w64-mingw32/5.3.0 \
+    D:/ChaunYi/Qt/Qt_Install/qt5.8.0/Tools/mingw530_32/lib/gcc \
+    D:/ChaunYi/Qt/Qt_Install/qt5.8.0/Tools/mingw530_32/i686-w64-mingw32/lib \
+    D:/ChaunYi/Qt/Qt_Install/qt5.8.0/Tools/mingw530_32/lib \
+    C:/Qt/Qt5.12.10/Tools/mingw730_32/lib/gcc/i686-w64-mingw32/7.3.0 \
+    C:/Qt/Qt5.12.10/Tools/mingw730_32/lib/gcc \
+    C:/Qt/Qt5.12.10/Tools/mingw730_32/i686-w64-mingw32/lib \
+    C:/Qt/Qt5.12.10/Tools/mingw730_32/lib
